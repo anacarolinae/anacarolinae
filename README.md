@@ -9,7 +9,6 @@
 <br> 
 <br>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://img.icons8.com/?size=100&id=106567&format=png&color=000000" height="30" alt="GitHub">
 </div>
